@@ -1,0 +1,196 @@
+fileFormatVersion: 2
+guid: 08171b5da0a2f164e84a2811d49a6a65
+timeCreated: 1459184939
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Body
+    21300002: RearWheel
+    21300004: FrontWheel
+    21300006: FrontBumper
+    21300008: RearBumper
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 60
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Body
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 287
+        width: 485
+        height: 331
+      alignment: 9
+      pivot: {x: 0.49609172, y: 0.35059386}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 170.39551, y: -35.04657}
+        - {x: 170.39551, y: -32.04657}
+        - {x: 148.39551, y: 13.95343}
+        - {x: 244.39551, y: 5.95343}
+        - {x: 244.39551, y: 15.95343}
+        - {x: 216.39551, y: 39.95343}
+        - {x: 204.39551, y: 45.95343}
+        - {x: 162.39551, y: 46.95343}
+        - {x: 96.39551, y: 122.95343}
+        - {x: 74.39551, y: 131.95343}
+        - {x: 82.39551, y: 191.95343}
+        - {x: 39.395508, y: 213.95343}
+        - {x: 34.395508, y: 214.95343}
+        - {x: -17.604492, y: 214.95343}
+        - {x: -26.604492, y: 212.95343}
+        - {x: -115.60449, y: 65.95343}
+        - {x: -146.60449, y: 51.95343}
+        - {x: -239.60449, y: 37.95343}
+        - {x: -239.60449, y: 22.95343}
+        - {x: -118.60449, y: -48.04657}
+        - {x: -73.60449, y: -116.04657}
+        - {x: 52.395508, y: -116.04657}
+        - {x: 98.39551, y: -108.04657}
+        - {x: 133.39551, y: -30.04657}
+        - {x: 145.39551, y: -48.04657}
+    - name: RearWheel
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 18
+        width: 187
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 52.5, y: 92.5}
+        - {x: -49.5, y: 92.5}
+        - {x: -93.5, y: 39.5}
+        - {x: -93.5, y: -44.5}
+        - {x: -91.5, y: -52.5}
+        - {x: -39.5, y: -92.5}
+        - {x: 31.5, y: -92.5}
+        - {x: 74.5, y: -69.5}
+        - {x: 93.5, y: -32.5}
+        - {x: 93.5, y: 34.5}
+      - - {x: -38.5, y: -19.5}
+        - {x: -35.5, y: -18.5}
+        - {x: -35.5, y: -15.5}
+        - {x: -38.5, y: -14.5}
+        - {x: -40.5, y: -16.5}
+    - name: FrontWheel
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 19
+        width: 186
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 39, y: 92}
+        - {x: -31, y: 92}
+        - {x: -71, y: 78}
+        - {x: -93, y: 36}
+        - {x: -93, y: -40}
+        - {x: -91, y: -53}
+        - {x: -40, y: -92}
+        - {x: 51, y: -92}
+        - {x: 93, y: -49}
+        - {x: 93, y: 40}
+        - {x: 49, y: 88}
+      - - {x: -38, y: -20}
+        - {x: -35, y: -19}
+        - {x: -35, y: -16}
+        - {x: -38, y: -15}
+        - {x: -40, y: -17}
+    - name: FrontBumper
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 64
+        width: 78
+        height: 93
+      alignment: 9
+      pivot: {x: 0.5562173, y: 0.36247796}
+      border: {x: 42, y: 32, z: 33, w: 58}
+      outline:
+      - - {x: -41.38495, y: 59.28955}
+        - {x: -43.38495, y: 57.28955}
+        - {x: -43.38495, y: 18.28955}
+        - {x: -40.38495, y: -6.710449}
+        - {x: -28.384949, y: -31.71045}
+        - {x: -21.384949, y: -33.71045}
+        - {x: 22.615051, y: -33.71045}
+        - {x: 34.61505, y: -21.71045}
+        - {x: 34.61505, y: 27.28955}
+        - {x: -15.384949, y: 59.28955}
+    - name: RearBumper
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 78
+        width: 125
+        height: 64
+      alignment: 9
+      pivot: {x: 0.33009914, y: 0.48262328}
+      border: {x: 39, y: 28, z: 81, w: 30}
+      outline:
+      - - {x: 36.73761, y: 33.112106}
+        - {x: -20.26239, y: 33.112106}
+        - {x: -41.26239, y: 4.1121063}
+        - {x: -41.26239, y: -30.887894}
+        - {x: 50.73761, y: -30.887894}
+        - {x: 83.73761, y: -4.8878937}
+        - {x: 83.73761, y: 22.112106}
+        - {x: 72.73761, y: 27.112106}
+      - - {x: 48.73761, y: -22.887894}
+        - {x: 51.73761, y: -21.887894}
+        - {x: 51.73761, y: -18.887894}
+        - {x: 48.73761, y: -17.887894}
+        - {x: 46.73761, y: -19.887894}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
